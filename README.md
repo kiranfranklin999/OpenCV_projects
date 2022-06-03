@@ -6,3 +6,4 @@ This repo contains various mini projects like :
 3) Mask Detection
 4) Emotion Recognition
 5) Hand Gesture Recognition
+6) Real time object recognition
